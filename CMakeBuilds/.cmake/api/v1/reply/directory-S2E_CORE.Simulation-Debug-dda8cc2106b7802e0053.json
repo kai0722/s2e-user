@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "S2E_CORE/Simulation",
+		"source" : "C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Simulation"
+	}
+}

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ResolveNugetPackages>false</ResolveNugetPackages>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{42DB3F1E-DAE6-3C6A-8872-53F86B7CA2CD}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
+    <Platform>Win32</Platform>
+    <ProjectName>ZERO_CHECK</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\ExtLibraries\cspice\include;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\ExtLibraries\nrlmsise00\src;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\s2e-core\src;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\s2e-core\src\Library\math;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\s2e-core\src\Library\utils;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\s2e-core\src\Dynamics;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\s2e-core\src\Disturbance;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\s2e-core\src\Interface\InitInput;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\s2e-core\src\Interface\LogOutput;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\s2e-core\src\Interface\SpacecraftInOut\Ports;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\s2e-core\src\Simulation;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\s2e-core\src\Simulation\MCSim;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\s2e-core\src\Simulation\Spacecraft;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\s2e-core\src\Simulation\Spacecraft\Structure;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\s2e-core\src\Simulation\GroundStation;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\s2e-core\src\Simulation\Case;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\s2e-core\src\Environment\Global;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\s2e-core\src\Environment\Local;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\s2e-core\src\Component;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\s2e-core\src\Component\Abstract;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\s2e-core\src\Component\AOCS;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\s2e-core\src\Component\CDH;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\s2e-core\src\Component\CommGS;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\s2e-core\src\Component\Mission\Telescope;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\s2e-core\src\Component\Power;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\s2e-core\src\Component\Propulsion;C:\Users\nakam\Desktop\WorkSpace\s2e-user\..\s2e-core\src\Component\Thermal;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\CMakeFiles\6a06981239277506d773a0d23f9dadde\generate.stamp.rule">
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Checking Build System</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/nakam/Desktop/WorkSpace/s2e-user -BC:/Users/nakam/Desktop/WorkSpace/s2e-user/CMakeBuilds --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/nakam/Desktop/WorkSpace/s2e-user/CMakeBuilds/S2E_USER.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.24\Modules\CMakeCInformation.cmake;C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.24\Modules\CMakeCXXInformation.cmake;C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.24\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.24\Modules\CMakeGenericSystem.cmake;C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.24\Modules\CMakeInitializeConfigs.cmake;C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.24\Modules\CMakeLanguageInformation.cmake;C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.24\Modules\CMakeRCInformation.cmake;C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.24\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.24\Modules\CMakeSystemSpecificInitialize.cmake;C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.24\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.24\Modules\Compiler\MSVC-C.cmake;C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.24\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.24\Modules\Compiler\MSVC.cmake;C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.24\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.24\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.24\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.24\Modules\Platform\Windows.cmake;C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.24\Modules\Platform\WindowsPaths.cmake;C:\Users\nakam\Desktop\WorkSpace\s2e-core\common.cmake;C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\CMakeLists.txt;C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Disturbance\CMakeLists.txt;C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Dynamics\CMakeLists.txt;C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Environment\Global\CMakeLists.txt;C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Environment\Local\CMakeLists.txt;C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Interface\HilsInOut\CMakeLists.txt;C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Interface\InitInput\CMakeLists.txt;C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Interface\LogOutput\CMakeLists.txt;C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Interface\SpacecraftInOut\CMakeLists.txt;C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Library\Geodesy\CMakeLists.txt;C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Library\Orbit\CMakeLists.txt;C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Library\RelativeOrbit\CMakeLists.txt;C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Library\igrf\CMakeLists.txt;C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Library\inih\CMakeLists.txt;C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Library\math\CMakeLists.txt;C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Library\nrlmsise00\CMakeLists.txt;C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Library\optics\CMakeLists.txt;C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Library\sgp4\CMakeLists.txt;C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Library\utils\CMakeLists.txt;C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\RelativeInformation\CMakeLists.txt;C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Simulation\CMakeLists.txt;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\CMakeFiles\3.24.202208181-MSVC_2\CMakeCCompiler.cmake;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\CMakeFiles\3.24.202208181-MSVC_2\CMakeCXXCompiler.cmake;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\CMakeFiles\3.24.202208181-MSVC_2\CMakeRCCompiler.cmake;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\CMakeFiles\3.24.202208181-MSVC_2\CMakeSystem.cmake;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\CMakeFiles\generate.stamp;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\S2E_CORE\Component\CMakeFiles\generate.stamp;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\S2E_CORE\Disturbance\CMakeFiles\generate.stamp;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\S2E_CORE\Dynamics\CMakeFiles\generate.stamp;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\S2E_CORE\Environment\Global\CMakeFiles\generate.stamp;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\S2E_CORE\Environment\Local\CMakeFiles\generate.stamp;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\S2E_CORE\RelativeInformation\CMakeFiles\generate.stamp;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\S2E_CORE\InitInput\CMakeFiles\generate.stamp;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\S2E_CORE\LogOutput\CMakeFiles\generate.stamp;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\S2E_CORE\SpacecraftInOut\CMakeFiles\generate.stamp;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\S2E_CORE\HilsInOut\CMakeFiles\generate.stamp;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\S2E_CORE\igrf\CMakeFiles\generate.stamp;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\S2E_CORE\inih\CMakeFiles\generate.stamp;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\S2E_CORE\math\CMakeFiles\generate.stamp;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\S2E_CORE\nrlmsise00\CMakeFiles\generate.stamp;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\S2E_CORE\sgp4\CMakeFiles\generate.stamp;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\S2E_CORE\utils\CMakeFiles\generate.stamp;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\S2E_CORE\optics\CMakeFiles\generate.stamp;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\S2E_CORE\RelativeOrbit\CMakeFiles\generate.stamp;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\S2E_CORE\Orbit\CMakeFiles\generate.stamp;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\S2E_CORE\Geodesy\CMakeFiles\generate.stamp;C:\Users\nakam\Desktop\WorkSpace\s2e-user\CMakeBuilds\S2E_CORE\Simulation\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,36 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Library/Orbit/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "ORBIT_MODELS::@e8c2318933616f3f2aa5"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "ALL_BUILD::@e8c2318933616f3f2aa5",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : "S2E_CORE/Orbit",
+		"source" : "C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Library/Orbit"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

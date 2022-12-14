@@ -1,0 +1,834 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "Debug/S2E_USER.exe"
+		},
+		{
+			"path" : "Debug/S2E_USER.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_libraries",
+			"target_compile_options",
+			"include",
+			"add_definitions",
+			"include_directories",
+			"target_include_directories",
+			"set_target_properties"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Environment/Global/CMakeLists.txt",
+			"C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Dynamics/CMakeLists.txt",
+			"C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Library/nrlmsise00/CMakeLists.txt",
+			"C:/Users/nakam/Desktop/WorkSpace/s2e-core/common.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 123,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 178,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 179,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 180,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 181,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 182,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 183,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 184,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 185,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"file" : 2
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 210,
+				"parent" : 0
+			},
+			{
+				"file" : 4,
+				"parent" : 13
+			},
+			{
+				"command" : 2,
+				"file" : 4,
+				"line" : 12,
+				"parent" : 14
+			},
+			{
+				"command" : 2,
+				"file" : 4,
+				"line" : 14,
+				"parent" : 14
+			},
+			{
+				"command" : 2,
+				"file" : 4,
+				"line" : 16,
+				"parent" : 14
+			},
+			{
+				"command" : 2,
+				"file" : 4,
+				"line" : 18,
+				"parent" : 14
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 17,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 61,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 62,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 63,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 64,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 65,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 66,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 67,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 68,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 69,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 70,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 72,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 73,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 74,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 75,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 76,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 78,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 79,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 80,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 81,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 82,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 83,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 84,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 85,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 86,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 87,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 88,
+				"parent" : 0
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 7,
+				"parent" : 14
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 8,
+				"parent" : 14
+			},
+			{
+				"command" : 7,
+				"file" : 4,
+				"line" : 3,
+				"parent" : 14
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1"
+				},
+				{
+					"backtrace" : 15,
+					"fragment" : "/MP"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "/W4"
+				},
+				{
+					"backtrace" : 17,
+					"fragment" : "/MT"
+				},
+				{
+					"backtrace" : 18,
+					"fragment" : "/source-charset:utf-8"
+				},
+				{
+					"fragment" : "-std:c++17"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 19,
+					"define" : "WIN32"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 20,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../ExtLibraries/cspice/include"
+				},
+				{
+					"backtrace" : 21,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../ExtLibraries/nrlmsise00/src"
+				},
+				{
+					"backtrace" : 22,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../s2e-core/src"
+				},
+				{
+					"backtrace" : 23,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../s2e-core/src/Library/math"
+				},
+				{
+					"backtrace" : 24,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../s2e-core/src/Library/utils"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../s2e-core/src/Dynamics"
+				},
+				{
+					"backtrace" : 26,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../s2e-core/src/Disturbance"
+				},
+				{
+					"backtrace" : 27,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../s2e-core/src/Interface/InitInput"
+				},
+				{
+					"backtrace" : 28,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../s2e-core/src/Interface/LogOutput"
+				},
+				{
+					"backtrace" : 29,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../s2e-core/src/Interface/SpacecraftInOut/Ports"
+				},
+				{
+					"backtrace" : 30,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../s2e-core/src/Simulation"
+				},
+				{
+					"backtrace" : 31,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../s2e-core/src/Simulation/MCSim"
+				},
+				{
+					"backtrace" : 32,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../s2e-core/src/Simulation/Spacecraft"
+				},
+				{
+					"backtrace" : 33,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../s2e-core/src/Simulation/Spacecraft/Structure"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../s2e-core/src/Simulation/GroundStation"
+				},
+				{
+					"backtrace" : 35,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../s2e-core/src/Simulation/Case"
+				},
+				{
+					"backtrace" : 36,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../s2e-core/src/Environment/Global"
+				},
+				{
+					"backtrace" : 37,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../s2e-core/src/Environment/Local"
+				},
+				{
+					"backtrace" : 38,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../s2e-core/src/Component"
+				},
+				{
+					"backtrace" : 39,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../s2e-core/src/Component/Abstract"
+				},
+				{
+					"backtrace" : 40,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../s2e-core/src/Component/AOCS"
+				},
+				{
+					"backtrace" : 41,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../s2e-core/src/Component/CDH"
+				},
+				{
+					"backtrace" : 42,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../s2e-core/src/Component/CommGS"
+				},
+				{
+					"backtrace" : 43,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../s2e-core/src/Component/Mission/Telescope"
+				},
+				{
+					"backtrace" : 44,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../s2e-core/src/Component/Power"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../s2e-core/src/Component/Propulsion"
+				},
+				{
+					"backtrace" : 46,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/../s2e-core/src/Component/Thermal"
+				},
+				{
+					"backtrace" : 47,
+					"path" : "/src"
+				},
+				{
+					"backtrace" : 48,
+					"path" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					49
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 6,
+			"id" : "RELATIVE_INFO::@5cc988c784c28b31f94a"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "INI_ACC::@25d84145e651c9c99bc9"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "LOG_OUT::@9127387706aa65050243"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "HILS_IO::@b456a438aae5f411e294"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "SC_IO::@da898b6a816edc33e86b"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "IGRF::@e83ebc5c62e5bb673c8b"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "INIH::@3ab3cf23f0f310f59fd6"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "MATH::@b26eb37b8edf1c1c46ee"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "WRAPPER_NRLMSISE00::@240b7f8b6f32c408a381"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "DISTURBANCE::@fca82ee7119a8ea150ce"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "COMPONENT::@57a159e04733de15cf59"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "GLOBAL_ENVIRONMENT::@1fbdc83e41191196c805"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "LOCAL_ENVIRONMENT::@8cf1c8efa9163c18754f"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "SGP4::@7a482f10d10de1b28b73"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "UTIL::@eeaa6af25f57da385910"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "OPTICS::@24bf7def54ab9432d884"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "RELATIVE_ORBIT_MODELS::@8bd8e3f91cdb0562e149"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "ORBIT_MODELS::@e8c2318933616f3f2aa5"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "GEODESY::@1363b485b2fd1ed889aa"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "S2E_USER::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "/machine:X86 /debug /INCREMENTAL /subsystem:console",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "S2E_CORE\\Dynamics\\Debug\\DYNAMICS.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "S2E_CORE\\Disturbance\\Debug\\DISTURBANCE.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "S2E_CORE\\Simulation\\Debug\\SIMULATION.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "S2E_CORE\\Environment\\Global\\Debug\\GLOBAL_ENVIRONMENT.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "S2E_CORE\\Environment\\Local\\Debug\\LOCAL_ENVIRONMENT.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "S2E_CORE\\RelativeInformation\\Debug\\RELATIVE_INFO.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "S2E_CORE\\InitInput\\Debug\\INI_ACC.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "S2E_CORE\\LogOutput\\Debug\\LOG_OUT.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "S2E_CORE\\SpacecraftInOut\\Debug\\SC_IO.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 8,
+				"fragment" : "S2E_CORE\\Component\\Debug\\COMPONENT.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "S2E_CORE\\HilsInOut\\Debug\\HILS_IO.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "S2E_CORE\\Dynamics\\Debug\\DYNAMICS.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "S2E_CORE\\Disturbance\\Debug\\DISTURBANCE.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "S2E_CORE\\Simulation\\Debug\\SIMULATION.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "S2E_CORE\\Dynamics\\Debug\\DYNAMICS.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "S2E_CORE\\Disturbance\\Debug\\DISTURBANCE.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "S2E_CORE\\Simulation\\Debug\\SIMULATION.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "S2E_CORE\\Environment\\Local\\Debug\\LOCAL_ENVIRONMENT.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "S2E_CORE\\Environment\\Global\\Debug\\GLOBAL_ENVIRONMENT.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "C:\\Users\\nakam\\Desktop\\WorkSpace\\ExtLibraries\\cspice\\cspice_msvs\\lib\\cspice.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "S2E_CORE\\RelativeInformation\\Debug\\RELATIVE_INFO.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "S2E_CORE\\SpacecraftInOut\\Debug\\SC_IO.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "S2E_CORE\\igrf\\Debug\\IGRF.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "S2E_CORE\\nrlmsise00\\Debug\\WRAPPER_NRLMSISE00.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 12,
+				"fragment" : "C:\\Users\\nakam\\Desktop\\WorkSpace\\ExtLibraries\\nrlmsise00\\lib\\libnrlmsise00.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "S2E_CORE\\inih\\Debug\\INIH.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "S2E_CORE\\sgp4\\Debug\\SGP4.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "S2E_CORE\\utils\\Debug\\UTIL.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "S2E_CORE\\optics\\Debug\\OPTICS.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "S2E_CORE\\RelativeOrbit\\Debug\\RELATIVE_ORBIT_MODELS.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "S2E_CORE\\Orbit\\Debug\\ORBIT_MODELS.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "S2E_CORE\\Geodesy\\Debug\\GEODESY.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "S2E_CORE\\math\\Debug\\MATH.lib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "S2E_USER",
+	"nameOnDisk" : "S2E_USER.exe",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/S2eUser.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Simulation/Case/UserCase.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Simulation/Spacecraft/UserSat.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Simulation/Spacecraft/UserComponents.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Components/ClockSensor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Components/InitClockSensor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Components/UserObc.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

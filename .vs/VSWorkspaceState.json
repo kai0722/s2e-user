@@ -1,0 +1,21 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "ローカル コンピューター": [
+      "CMakeBuilds",
+      "..\\..\\..\\CMakeBuilds\\6250edd5-1345-4431-b09c-de9292605498\\install\\Win32"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\data",
+    "\\data\\ini",
+    "\\data\\ini\\Components",
+    "\\src",
+    "\\src\\Components",
+    "\\src\\Simulation",
+    "\\src\\Simulation\\Case",
+    "\\src\\Simulation\\Spacecraft"
+  ],
+  "SelectedNode": "\\CMakeLists.txt",
+  "PreviewInSolutionExplorer": false
+}

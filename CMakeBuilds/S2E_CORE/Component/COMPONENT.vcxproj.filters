@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\Abstract\ComponentBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\Abstract\ObcCommunicationBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\Abstract\I2cControllerCommunicationBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\Abstract\ObcI2cTargetCommunicationBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\Abstract\ObcGpioBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\Abstract\EXP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\Abstract\ExpHils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\Abstract\ExpHilsI2cController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\Abstract\ExpHilsI2cTarget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\AOCS\EMDS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\AOCS\InitEmds.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\AOCS\Gyro.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\AOCS\InitGyro.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\AOCS\MagSensor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\AOCS\InitMagSensor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\AOCS\MagTorquer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\AOCS\InitMagTorquer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\AOCS\rw_ode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\AOCS\RWModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\AOCS\InitRwModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\AOCS\RWJitter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\AOCS\STT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\AOCS\InitStt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\AOCS\SunSensor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\AOCS\InitSunSensor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\AOCS\UWBSensor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\AOCS\InitUwbSensor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\AOCS\GNSSReceiver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\AOCS\InitGnssReceiver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\CDH\OBC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\CDH\OBC_C2A.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\CommGS\Antenna.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\CommGS\InitAntenna.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\CommGS\GScalculator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\CommGS\InitGsCalculator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\IdealComponents\ForceGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\IdealComponents\InitializeForceGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\Logic\LPF.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\Logic\RVDController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\Logic\UWBEstimator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\Mission\Telescope\Telescope.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\Mission\Telescope\InitTelescope.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\Power\PCU.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\Power\BAT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\Power\InitBat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\Power\PCU_InitialStudy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\Power\InitPcu_InitialStudy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\Power\SAP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\Power\InitSap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\Power\CsvScenarioInterface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\Propulsion\SimpleThruster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\Propulsion\InitSimpleThruster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Component\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8FF7101B-649E-34A0-822F-D9E0C7F02DA3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

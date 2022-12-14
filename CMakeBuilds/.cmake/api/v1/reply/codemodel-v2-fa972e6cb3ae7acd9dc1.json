@@ -1,0 +1,1029 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1,
+						38,
+						44
+					]
+				},
+				{
+					"build" : "S2E_CORE/Component",
+					"jsonFile" : "directory-S2E_CORE.Component-Debug-f3593ddeed48e5ca85f2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Component",
+					"targetIndexes" : 
+					[
+						3,
+						22
+					]
+				},
+				{
+					"build" : "S2E_CORE/Disturbance",
+					"jsonFile" : "directory-S2E_CORE.Disturbance-Debug-2826f8076d57fd5ecd88.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Disturbance",
+					"targetIndexes" : 
+					[
+						5,
+						23
+					]
+				},
+				{
+					"build" : "S2E_CORE/Dynamics",
+					"jsonFile" : "directory-S2E_CORE.Dynamics-Debug-c5025382a370342330e3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Dynamics",
+					"targetIndexes" : 
+					[
+						7,
+						24
+					]
+				},
+				{
+					"build" : "S2E_CORE/Environment/Global",
+					"jsonFile" : "directory-S2E_CORE.Environment.Global-Debug-a42bdfd0e68f42f8ebe6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Environment/Global",
+					"targetIndexes" : 
+					[
+						0,
+						26
+					]
+				},
+				{
+					"build" : "S2E_CORE/Environment/Local",
+					"jsonFile" : "directory-S2E_CORE.Environment.Local-Debug-d5e0ad948a9d2e6e241b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Environment/Local",
+					"targetIndexes" : 
+					[
+						11,
+						31
+					]
+				},
+				{
+					"build" : "S2E_CORE/RelativeInformation",
+					"jsonFile" : "directory-S2E_CORE.RelativeInformation-Debug-74d4c55660193d159a49.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 6,
+					"source" : "C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/RelativeInformation",
+					"targetIndexes" : 
+					[
+						13,
+						36
+					]
+				},
+				{
+					"build" : "S2E_CORE/InitInput",
+					"jsonFile" : "directory-S2E_CORE.InitInput-Debug-f636d9cb950212825052.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 7,
+					"source" : "C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Interface/InitInput",
+					"targetIndexes" : 
+					[
+						15,
+						30
+					]
+				},
+				{
+					"build" : "S2E_CORE/LogOutput",
+					"jsonFile" : "directory-S2E_CORE.LogOutput-Debug-c477e14191669ee81fbe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 8,
+					"source" : "C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Interface/LogOutput",
+					"targetIndexes" : 
+					[
+						17,
+						32
+					]
+				},
+				{
+					"build" : "S2E_CORE/SpacecraftInOut",
+					"jsonFile" : "directory-S2E_CORE.SpacecraftInOut-Debug-98cdb3fa324b0593dc2c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 9,
+					"source" : "C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Interface/SpacecraftInOut",
+					"targetIndexes" : 
+					[
+						19,
+						39
+					]
+				},
+				{
+					"build" : "S2E_CORE/HilsInOut",
+					"jsonFile" : "directory-S2E_CORE.HilsInOut-Debug-e1da7d890acbbc0ca58f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 10,
+					"source" : "C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Interface/HilsInOut",
+					"targetIndexes" : 
+					[
+						16,
+						27
+					]
+				},
+				{
+					"build" : "S2E_CORE/igrf",
+					"jsonFile" : "directory-S2E_CORE.igrf-Debug-51f645534fe4b495715e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 11,
+					"source" : "C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Library/igrf",
+					"targetIndexes" : 
+					[
+						20,
+						28
+					]
+				},
+				{
+					"build" : "S2E_CORE/inih",
+					"jsonFile" : "directory-S2E_CORE.inih-Debug-42f4400666a94b7bdfb5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 12,
+					"source" : "C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Library/inih",
+					"targetIndexes" : 
+					[
+						18,
+						29
+					]
+				},
+				{
+					"build" : "S2E_CORE/math",
+					"jsonFile" : "directory-S2E_CORE.math-Debug-362d3e9e74f3a4bd0d86.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 13,
+					"source" : "C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Library/math",
+					"targetIndexes" : 
+					[
+						14,
+						33
+					]
+				},
+				{
+					"build" : "S2E_CORE/nrlmsise00",
+					"jsonFile" : "directory-S2E_CORE.nrlmsise00-Debug-83a4cad07c1be9c3b892.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 14,
+					"source" : "C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Library/nrlmsise00",
+					"targetIndexes" : 
+					[
+						12,
+						43
+					]
+				},
+				{
+					"build" : "S2E_CORE/sgp4",
+					"jsonFile" : "directory-S2E_CORE.sgp4-Debug-5127193a17f69649c71b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 15,
+					"source" : "C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Library/sgp4",
+					"targetIndexes" : 
+					[
+						10,
+						40
+					]
+				},
+				{
+					"build" : "S2E_CORE/utils",
+					"jsonFile" : "directory-S2E_CORE.utils-Debug-9d2ed9c5a64bb20c74ff.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 16,
+					"source" : "C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Library/utils",
+					"targetIndexes" : 
+					[
+						9,
+						42
+					]
+				},
+				{
+					"build" : "S2E_CORE/optics",
+					"jsonFile" : "directory-S2E_CORE.optics-Debug-a913372a4798de14e8f1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 17,
+					"source" : "C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Library/optics",
+					"targetIndexes" : 
+					[
+						8,
+						34
+					]
+				},
+				{
+					"build" : "S2E_CORE/RelativeOrbit",
+					"jsonFile" : "directory-S2E_CORE.RelativeOrbit-Debug-14ce5dd457059d2899d4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 18,
+					"source" : "C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Library/RelativeOrbit",
+					"targetIndexes" : 
+					[
+						6,
+						37
+					]
+				},
+				{
+					"build" : "S2E_CORE/Orbit",
+					"jsonFile" : "directory-S2E_CORE.Orbit-Debug-41ef56f26796a3355929.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 19,
+					"source" : "C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Library/Orbit",
+					"targetIndexes" : 
+					[
+						2,
+						35
+					]
+				},
+				{
+					"build" : "S2E_CORE/Geodesy",
+					"jsonFile" : "directory-S2E_CORE.Geodesy-Debug-346acbf64bab49ce1f11.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 20,
+					"source" : "C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Library/Geodesy",
+					"targetIndexes" : 
+					[
+						21,
+						25
+					]
+				},
+				{
+					"build" : "S2E_CORE/Simulation",
+					"jsonFile" : "directory-S2E_CORE.Simulation-Debug-dda8cc2106b7802e0053.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 21,
+					"source" : "C:/Users/nakam/Desktop/WorkSpace/s2e-core/src/Simulation",
+					"targetIndexes" : 
+					[
+						4,
+						41
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "S2E_USER",
+					"targetIndexes" : 
+					[
+						1,
+						38,
+						44
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "COMPONENT",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						22
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "DISTURBANCE",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5,
+						23
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "DYNAMICS",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						7,
+						24
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "GLOBAL_ENVIRONMENT",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						26
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "LOCAL_ENVIRONMENT",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						11,
+						31
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "RELATIVE_INFO",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						13,
+						36
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "INI_ACC",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						15,
+						30
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "LOG_OUT",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						17,
+						32
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "SC_IO",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						19,
+						39
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						10
+					],
+					"name" : "HILS_IO",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						16,
+						27
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						11
+					],
+					"name" : "IGRF",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						20,
+						28
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						12
+					],
+					"name" : "INIH",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						18,
+						29
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						13
+					],
+					"name" : "MATH",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						14,
+						33
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						14
+					],
+					"name" : "WRAPPER_NRLMSISE00",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						12,
+						43
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						15
+					],
+					"name" : "SGP4",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						10,
+						40
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						16
+					],
+					"name" : "UTIL",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						9,
+						42
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						17
+					],
+					"name" : "OPTICS",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						8,
+						34
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						18
+					],
+					"name" : "RELATIVE_ORBIT_MODELS",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6,
+						37
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						19
+					],
+					"name" : "ORBIT_MODELS",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2,
+						35
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						20
+					],
+					"name" : "GEODESY",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						21,
+						25
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						21
+					],
+					"name" : "SIMULATION",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4,
+						41
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 4,
+					"id" : "ALL_BUILD::@1fbdc83e41191196c805",
+					"jsonFile" : "target-ALL_BUILD-Debug-34a7423e3ae2f4620e35.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-97850010b1930886391a.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "ALL_BUILD::@e8c2318933616f3f2aa5",
+					"jsonFile" : "target-ALL_BUILD-Debug-895c08116f3574eaa959.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 19
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ALL_BUILD::@57a159e04733de15cf59",
+					"jsonFile" : "target-ALL_BUILD-Debug-ae8e5f990c66ec2fc60d.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 21,
+					"id" : "ALL_BUILD::@4d8067bb56447e8cb843",
+					"jsonFile" : "target-ALL_BUILD-Debug-07e0324bc628e0f3f665.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 21
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ALL_BUILD::@fca82ee7119a8ea150ce",
+					"jsonFile" : "target-ALL_BUILD-Debug-0a9b158f85db58c70a31.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 18,
+					"id" : "ALL_BUILD::@8bd8e3f91cdb0562e149",
+					"jsonFile" : "target-ALL_BUILD-Debug-00abc5043d7d2ff8707f.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 18
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ALL_BUILD::@358c42daffcdfa4fb9ba",
+					"jsonFile" : "target-ALL_BUILD-Debug-f9648fb334d4dd256b39.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 17,
+					"id" : "ALL_BUILD::@24bf7def54ab9432d884",
+					"jsonFile" : "target-ALL_BUILD-Debug-0b7714699913d64e1cf0.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 17
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "ALL_BUILD::@eeaa6af25f57da385910",
+					"jsonFile" : "target-ALL_BUILD-Debug-3a0fc14842d2584b6ee1.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 16
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "ALL_BUILD::@7a482f10d10de1b28b73",
+					"jsonFile" : "target-ALL_BUILD-Debug-483a6f7911f43cc1dc17.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "ALL_BUILD::@8cf1c8efa9163c18754f",
+					"jsonFile" : "target-ALL_BUILD-Debug-ee611f204aca7f38a2db.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "ALL_BUILD::@240b7f8b6f32c408a381",
+					"jsonFile" : "target-ALL_BUILD-Debug-ef51a88824ea392e5418.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 14
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "ALL_BUILD::@5cc988c784c28b31f94a",
+					"jsonFile" : "target-ALL_BUILD-Debug-57755d6fa6a96ee8ef9e.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "ALL_BUILD::@b26eb37b8edf1c1c46ee",
+					"jsonFile" : "target-ALL_BUILD-Debug-891162d8e56fba725e76.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 13
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "ALL_BUILD::@25d84145e651c9c99bc9",
+					"jsonFile" : "target-ALL_BUILD-Debug-0c0c3defe1b72b7c5115.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "ALL_BUILD::@b456a438aae5f411e294",
+					"jsonFile" : "target-ALL_BUILD-Debug-c0a746e8c808c40e6f70.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "ALL_BUILD::@9127387706aa65050243",
+					"jsonFile" : "target-ALL_BUILD-Debug-468eb4a35ea6a1eaf433.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "ALL_BUILD::@3ab3cf23f0f310f59fd6",
+					"jsonFile" : "target-ALL_BUILD-Debug-40a02f6a0ecb46af90b2.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 12
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "ALL_BUILD::@da898b6a816edc33e86b",
+					"jsonFile" : "target-ALL_BUILD-Debug-02fcd285f76fef8a712b.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "ALL_BUILD::@e83ebc5c62e5bb673c8b",
+					"jsonFile" : "target-ALL_BUILD-Debug-c83a81fb029e60977479.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 11
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "ALL_BUILD::@1363b485b2fd1ed889aa",
+					"jsonFile" : "target-ALL_BUILD-Debug-21b27ed30ca05cddb685.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 20
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "COMPONENT::@57a159e04733de15cf59",
+					"jsonFile" : "target-COMPONENT-Debug-585f06d78c87fe098992.json",
+					"name" : "COMPONENT",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "DISTURBANCE::@fca82ee7119a8ea150ce",
+					"jsonFile" : "target-DISTURBANCE-Debug-75cd8e9e2cec973ab3fd.json",
+					"name" : "DISTURBANCE",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "DYNAMICS::@358c42daffcdfa4fb9ba",
+					"jsonFile" : "target-DYNAMICS-Debug-2d6a8786097a97c831f8.json",
+					"name" : "DYNAMICS",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "GEODESY::@1363b485b2fd1ed889aa",
+					"jsonFile" : "target-GEODESY-Debug-e56656d250644d0e53d2.json",
+					"name" : "GEODESY",
+					"projectIndex" : 20
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "GLOBAL_ENVIRONMENT::@1fbdc83e41191196c805",
+					"jsonFile" : "target-GLOBAL_ENVIRONMENT-Debug-bb0c670382103560d27c.json",
+					"name" : "GLOBAL_ENVIRONMENT",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "HILS_IO::@b456a438aae5f411e294",
+					"jsonFile" : "target-HILS_IO-Debug-fd2558785b5aa3587080.json",
+					"name" : "HILS_IO",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "IGRF::@e83ebc5c62e5bb673c8b",
+					"jsonFile" : "target-IGRF-Debug-bc5815bb35a7a9251498.json",
+					"name" : "IGRF",
+					"projectIndex" : 11
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "INIH::@3ab3cf23f0f310f59fd6",
+					"jsonFile" : "target-INIH-Debug-c2219ed46e7588f2436b.json",
+					"name" : "INIH",
+					"projectIndex" : 12
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "INI_ACC::@25d84145e651c9c99bc9",
+					"jsonFile" : "target-INI_ACC-Debug-96aee7b96e75de88120f.json",
+					"name" : "INI_ACC",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "LOCAL_ENVIRONMENT::@8cf1c8efa9163c18754f",
+					"jsonFile" : "target-LOCAL_ENVIRONMENT-Debug-52a06ebb08ba3271f3da.json",
+					"name" : "LOCAL_ENVIRONMENT",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "LOG_OUT::@9127387706aa65050243",
+					"jsonFile" : "target-LOG_OUT-Debug-6129221405549ef30896.json",
+					"name" : "LOG_OUT",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "MATH::@b26eb37b8edf1c1c46ee",
+					"jsonFile" : "target-MATH-Debug-c9efa09bd28455c3e30a.json",
+					"name" : "MATH",
+					"projectIndex" : 13
+				},
+				{
+					"directoryIndex" : 17,
+					"id" : "OPTICS::@24bf7def54ab9432d884",
+					"jsonFile" : "target-OPTICS-Debug-b8b78eab3b244e195795.json",
+					"name" : "OPTICS",
+					"projectIndex" : 17
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "ORBIT_MODELS::@e8c2318933616f3f2aa5",
+					"jsonFile" : "target-ORBIT_MODELS-Debug-0a29b88d0de9107ee4b6.json",
+					"name" : "ORBIT_MODELS",
+					"projectIndex" : 19
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "RELATIVE_INFO::@5cc988c784c28b31f94a",
+					"jsonFile" : "target-RELATIVE_INFO-Debug-d83586b677c7e1b1ed95.json",
+					"name" : "RELATIVE_INFO",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 18,
+					"id" : "RELATIVE_ORBIT_MODELS::@8bd8e3f91cdb0562e149",
+					"jsonFile" : "target-RELATIVE_ORBIT_MODELS-Debug-4f55de62ef2b09f69534.json",
+					"name" : "RELATIVE_ORBIT_MODELS",
+					"projectIndex" : 18
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "S2E_USER::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-S2E_USER-Debug-b3db80912b73efc74ec9.json",
+					"name" : "S2E_USER",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "SC_IO::@da898b6a816edc33e86b",
+					"jsonFile" : "target-SC_IO-Debug-c6f5f8e0cfde9cd6036b.json",
+					"name" : "SC_IO",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "SGP4::@7a482f10d10de1b28b73",
+					"jsonFile" : "target-SGP4-Debug-b426d183fbf666c3c0f3.json",
+					"name" : "SGP4",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 21,
+					"id" : "SIMULATION::@4d8067bb56447e8cb843",
+					"jsonFile" : "target-SIMULATION-Debug-7eec44529c57f75a142c.json",
+					"name" : "SIMULATION",
+					"projectIndex" : 21
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "UTIL::@eeaa6af25f57da385910",
+					"jsonFile" : "target-UTIL-Debug-3152f1a8ab5dc52c1c81.json",
+					"name" : "UTIL",
+					"projectIndex" : 16
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "WRAPPER_NRLMSISE00::@240b7f8b6f32c408a381",
+					"jsonFile" : "target-WRAPPER_NRLMSISE00-Debug-81e7ba8207fbb0deed21.json",
+					"name" : "WRAPPER_NRLMSISE00",
+					"projectIndex" : 14
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-2577c5e158b5e55d57ea.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user/CMakeBuilds",
+		"source" : "C:/Users/nakam/Desktop/WorkSpace/s2e-user"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

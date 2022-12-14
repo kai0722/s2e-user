@@ -1,0 +1,93 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "RELATIVE_INFO::@5cc988c784c28b31f94a"
+		},
+		{
+			"id" : "INI_ACC::@25d84145e651c9c99bc9"
+		},
+		{
+			"id" : "LOG_OUT::@9127387706aa65050243"
+		},
+		{
+			"id" : "HILS_IO::@b456a438aae5f411e294"
+		},
+		{
+			"id" : "S2E_USER::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "SC_IO::@da898b6a816edc33e86b"
+		},
+		{
+			"id" : "IGRF::@e83ebc5c62e5bb673c8b"
+		},
+		{
+			"id" : "INIH::@3ab3cf23f0f310f59fd6"
+		},
+		{
+			"id" : "MATH::@b26eb37b8edf1c1c46ee"
+		},
+		{
+			"id" : "WRAPPER_NRLMSISE00::@240b7f8b6f32c408a381"
+		},
+		{
+			"id" : "DISTURBANCE::@fca82ee7119a8ea150ce"
+		},
+		{
+			"id" : "COMPONENT::@57a159e04733de15cf59"
+		},
+		{
+			"id" : "GLOBAL_ENVIRONMENT::@1fbdc83e41191196c805"
+		},
+		{
+			"id" : "LOCAL_ENVIRONMENT::@8cf1c8efa9163c18754f"
+		},
+		{
+			"id" : "SGP4::@7a482f10d10de1b28b73"
+		},
+		{
+			"id" : "UTIL::@eeaa6af25f57da385910"
+		},
+		{
+			"id" : "OPTICS::@24bf7def54ab9432d884"
+		},
+		{
+			"id" : "RELATIVE_ORBIT_MODELS::@8bd8e3f91cdb0562e149"
+		},
+		{
+			"id" : "ORBIT_MODELS::@e8c2318933616f3f2aa5"
+		},
+		{
+			"id" : "GEODESY::@1363b485b2fd1ed889aa"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ALL_BUILD", "ALL_BUILD.vcxproj", "{0FBA6597-85F7-3E88-BE22-8FF1B4224F11}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A61CBB69-EFEE-33EB-A61A-0ACFEDDDF7A0} = {A61CBB69-EFEE-33EB-A61A-0ACFEDDDF7A0}
+		{42DB3F1E-DAE6-3C6A-8872-53F86B7CA2CD} = {42DB3F1E-DAE6-3C6A-8872-53F86B7CA2CD}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HILS_IO", "HILS_IO.vcxproj", "{A61CBB69-EFEE-33EB-A61A-0ACFEDDDF7A0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{42DB3F1E-DAE6-3C6A-8872-53F86B7CA2CD} = {42DB3F1E-DAE6-3C6A-8872-53F86B7CA2CD}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZERO_CHECK", "..\..\\ZERO_CHECK.vcxproj", "{42DB3F1E-DAE6-3C6A-8872-53F86B7CA2CD}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FBA6597-85F7-3E88-BE22-8FF1B4224F11}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A61CBB69-EFEE-33EB-A61A-0ACFEDDDF7A0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A61CBB69-EFEE-33EB-A61A-0ACFEDDDF7A0}.Debug|Win32.Build.0 = Debug|Win32
+		{42DB3F1E-DAE6-3C6A-8872-53F86B7CA2CD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{42DB3F1E-DAE6-3C6A-8872-53F86B7CA2CD}.Debug|Win32.Build.0 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F393D855-9065-3F7A-B7C6-C171F5D7C54C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

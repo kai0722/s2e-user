@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ALL_BUILD", "ALL_BUILD.vcxproj", "{0FBA6597-85F7-3E88-BE22-8FF1B4224F11}"
+	ProjectSection(ProjectDependencies) = postProject
+		{52B54D33-837A-3E22-B258-697741ED1EF1} = {52B54D33-837A-3E22-B258-697741ED1EF1}
+		{42DB3F1E-DAE6-3C6A-8872-53F86B7CA2CD} = {42DB3F1E-DAE6-3C6A-8872-53F86B7CA2CD}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ORBIT_MODELS", "ORBIT_MODELS.vcxproj", "{52B54D33-837A-3E22-B258-697741ED1EF1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{42DB3F1E-DAE6-3C6A-8872-53F86B7CA2CD} = {42DB3F1E-DAE6-3C6A-8872-53F86B7CA2CD}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZERO_CHECK", "..\..\\ZERO_CHECK.vcxproj", "{42DB3F1E-DAE6-3C6A-8872-53F86B7CA2CD}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FBA6597-85F7-3E88-BE22-8FF1B4224F11}.Debug|Win32.ActiveCfg = Debug|Win32
+		{52B54D33-837A-3E22-B258-697741ED1EF1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{52B54D33-837A-3E22-B258-697741ED1EF1}.Debug|Win32.Build.0 = Debug|Win32
+		{42DB3F1E-DAE6-3C6A-8872-53F86B7CA2CD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{42DB3F1E-DAE6-3C6A-8872-53F86B7CA2CD}.Debug|Win32.Build.0 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ED57ECA-60AE-3182-959E-38529D07FB46}
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

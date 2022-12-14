@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Simulation\Case\SimulationCase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Simulation\MCSim\InitParameter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Simulation\MCSim\MCSimExecutor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Simulation\MCSim\SimulationObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Simulation\MCSim\InitMcSim.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Simulation\Spacecraft\Spacecraft.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Simulation\Spacecraft\InstalledComponents.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Simulation\Spacecraft\Structure\Structure.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Simulation\Spacecraft\Structure\KinematicsParams.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Simulation\Spacecraft\Structure\RMMParams.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Simulation\Spacecraft\Structure\Surface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Simulation\Spacecraft\Structure\InitStructure.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Simulation\GroundStation\GroundStation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Simulation\InterSatComm\InterSatComm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nakam\Desktop\WorkSpace\s2e-core\src\Simulation\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8FF7101B-649E-34A0-822F-D9E0C7F02DA3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
